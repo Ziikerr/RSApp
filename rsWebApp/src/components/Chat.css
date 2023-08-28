@@ -1,0 +1,14 @@
+.chatbox{
+    height: 300px;
+    overflow-y: auto;
+    display: flex;
+    }
+
+    #self {
+        justify-content: flex-start;
+      }
+
+      #other {
+        justify-content: flex-end;
+      }
+  
